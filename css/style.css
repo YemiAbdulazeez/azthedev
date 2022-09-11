@@ -1879,15 +1879,15 @@ ol {
     line-height: normal;
   }
   .hs-text .text-span {
-    font-size: 2.5rem;
-    font-weight: 700;
+    font-size: 3rem;
+    font-weight: 750;
     text-transform: lowercase;
     margin-top: 14px;
   }
   .hs-text h2 {
     color: #ffffff;
-    font-size: 2.5rem;
-    font-weight: 700;
+    font-size: 3rem;
+    font-weight: 750;
     margin-top: 20px;
     margin-bottom: 20px;
   }
@@ -1943,15 +1943,15 @@ ol {
     font-size: 22px;
   }
   .hs-text .text-span {
-    font-size: 2.3rem;
-    font-weight: 700;
+    font-size: 2.5rem;
+    font-weight: 720;
     text-transform: lowercase;
     margin-top: 14px;
   }
   .hs-text h2 {
     color: #ffffff;
-    font-size: 2.3rem;
-    font-weight: 700;
+    font-size: 2.5rem;
+    font-weight: 720;
     margin-top: 20px;
     margin-bottom: 20px;
   }
